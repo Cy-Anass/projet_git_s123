@@ -1,4 +1,4 @@
 conf.config
 bin/
-*.scc
+*.scss
 *.sass
