@@ -2,3 +2,4 @@ conf.config
 bin/
 *.scss
 *.sass
+!extras/bootstrap_icon.scss
